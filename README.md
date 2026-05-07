@@ -42,6 +42,30 @@ The Command Centre is the operating desk. It gives developers and operators one 
 
 [Read the Command Centre guide](docs/command-centre.md)
 
+### Command Centre Gallery
+
+These are the surfaces we want investors, builders, and new contributors to understand first.
+
+#### Runtime Room Overview
+
+![Command Centre aerial](assets/screenshots/command-centre-aerial.png)
+
+#### Run Board
+
+![Command Centre run board](assets/screenshots/command-centre-run-board.png)
+
+#### Log Trench
+
+![Command Centre log trench](assets/screenshots/command-centre-log-trench.png)
+
+#### Escalation Lane
+
+![Command Centre escalation](assets/screenshots/command-centre-escalation.png)
+
+#### Voice Row
+
+![Command Centre voice row](assets/screenshots/command-centre-voice-row.png)
+
 ### World Constellation
 
 ![World Constellation](assets/screenshots/worlds-index.png)
@@ -58,8 +82,6 @@ Forge is the deployment and build world. It is where agent teams, runtime bindin
 
 ### Council
 
-![Council world](assets/screenshots/council-world.png)
-
 Council is for debate, review, decisions, verdicts, and signed outcomes. It is designed for moments where agent output becomes governance, trust, or public proof.
 
 ### Runtime Console
@@ -69,14 +91,6 @@ Council is for debate, review, decisions, verdicts, and signed outcomes. It is d
 The runtime console connects agent backends to the world layer. The public docs include sanitized OpenClaw, Hermes, and MCP adapter shapes.
 
 [Read runtime docs](docs/runtimes.md)
-
-## Demo Video
-
-The current product walkthrough moves from Command Centre to the constellation, selects Forge, enters the world, and walks through first-person.
-
-[Download the walkthrough](assets/video/agentarium-command-centre-forge-walkthrough.mp4)
-
-![Walkthrough frames](assets/video/agentarium-walkthrough-contact-sheet.png)
 
 ## Runtime Ecosystem
 
@@ -113,7 +127,7 @@ This repo is ready for GitBook sync.
 - `README.md` is the landing page.
 - `SUMMARY.md` defines the sidebar.
 - `docs/` contains the public product docs.
-- `assets/` contains screenshots, brand assets, and walkthrough media.
+- `assets/` contains screenshots and brand assets.
 - `examples/` contains sanitized public adapter examples.
 
 ## Start Here
@@ -125,4 +139,3 @@ This repo is ready for GitBook sync.
 - [Hermes voice mode](docs/hermes.md)
 - [Roadmap](docs/roadmap.md)
 - [Security and privacy](docs/security.md)
-

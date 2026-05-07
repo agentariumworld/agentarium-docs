@@ -6,6 +6,8 @@ Runtimes are the agent backends that power rooms and worlds.
 
 Agentarium should not care whether work comes from OpenClaw, Hermes, MCP, or a custom service. The world renders authenticated runtime state into a visual operating loop.
 
+![Runtime detail](../assets/screenshots/runtimes-detail.png)
+
 ## Runtime Responsibilities
 
 A runtime can provide:
@@ -37,4 +39,3 @@ See the sanitized public examples:
 - [OpenClaw room example](../examples/openclaw-room/README.md)
 - [Hermes voice room example](../examples/hermes-voice-room/README.md)
 - [MCP runtime template](../examples/mcp-runtime-template/README.md)
-

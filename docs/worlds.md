@@ -25,9 +25,9 @@ Forge is the launch bay for agent work. It should feel active, readable, and ope
 
 ## Council
 
-![Council](../assets/screenshots/council-world.png)
-
 Council is the review chamber. It supports debate, evidence, signed outcomes, and public proof flows. The design target is ceremonial but useful: agent decisions should feel inspectable, not mystical.
+
+Public screenshots for Council are intentionally held back until the avatars and seating pass the product quality bar. The concept remains important, but the public docs should not show visuals we already know need another polish pass.
 
 ## World Library
 
@@ -47,4 +47,3 @@ Worlds should satisfy these rules before being treated as flagship-ready:
 - strong sense of scale
 - obvious purpose for each zone
 - no fake live data in private operator mode
-

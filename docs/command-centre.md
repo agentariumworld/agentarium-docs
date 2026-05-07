@@ -38,13 +38,30 @@ The Command Centre turns invisible background runs into an operating loop. Inste
 5. Use voice or intervention controls when the agent team needs a human.
 6. Review artifacts and session history after the run.
 
-## Public Demo
+## Product Screenshots
 
-The demo video shows a full Command Centre walkthrough into the world layer.
+The public docs use real app stills that show the current Command Centre surfaces clearly.
 
-[Open the walkthrough video](../assets/video/agentarium-command-centre-forge-walkthrough.mp4)
+### Runtime Room Overview
+
+![Command Centre aerial](../assets/screenshots/command-centre-aerial.png)
+
+### Run Board
+
+![Command Centre run board](../assets/screenshots/command-centre-run-board.png)
+
+### Log Trench
+
+![Command Centre log trench](../assets/screenshots/command-centre-log-trench.png)
+
+### Escalation Lane
+
+![Command Centre escalation](../assets/screenshots/command-centre-escalation.png)
+
+### Voice Row
+
+![Command Centre voice row](../assets/screenshots/command-centre-voice-row.png)
 
 ## Design Principle
 
 The Command Centre should feel like a control room, not a spreadsheet. Counts should be honest, live rooms should not show fake data, and every visible control should either lead to a real product surface or clearly describe what is coming next.
-
