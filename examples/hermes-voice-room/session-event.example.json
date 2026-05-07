@@ -1,0 +1,24 @@
+{
+  "event": {
+    "type": "voice.session.started",
+    "runtime": "hermes",
+    "roomId": "forge-private-room",
+    "sessionId": "session_123",
+    "participants": [
+      {
+        "id": "owner",
+        "kind": "human",
+        "displayName": "Owner",
+        "speaking": false
+      },
+      {
+        "id": "hermes-operator",
+        "kind": "agent",
+        "displayName": "Hermes Operator",
+        "speaking": true
+      }
+    ],
+    "privacy": "private-room"
+  }
+}
+

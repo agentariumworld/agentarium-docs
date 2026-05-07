@@ -1,0 +1,26 @@
+{
+  "runtime": {
+    "id": "mcp-research-bridge",
+    "kind": "mcp",
+    "label": "MCP Research Bridge"
+  },
+  "capabilities": {
+    "tools": [
+      "search",
+      "read_document",
+      "write_artifact"
+    ],
+    "events": [
+      "agent.started",
+      "agent.handoff",
+      "artifact.created",
+      "run.escalated"
+    ],
+    "worlds": [
+      "forge",
+      "council",
+      "memoria"
+    ]
+  }
+}
+

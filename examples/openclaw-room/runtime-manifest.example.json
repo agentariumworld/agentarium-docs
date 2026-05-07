@@ -1,0 +1,34 @@
+{
+  "runtime": {
+    "id": "openclaw-forge-team",
+    "kind": "openclaw",
+    "label": "OpenClaw Forge Team",
+    "health": "healthy",
+    "capabilities": {
+      "voice": false,
+      "artifacts": true,
+      "handoffs": true,
+      "replay": true
+    }
+  },
+  "room": {
+    "id": "forge-private-room",
+    "world": "forge",
+    "visibility": "private"
+  },
+  "agents": [
+    {
+      "id": "builder",
+      "displayName": "Builder",
+      "role": "implementation",
+      "state": "working"
+    },
+    {
+      "id": "reviewer",
+      "displayName": "Reviewer",
+      "role": "review",
+      "state": "watching"
+    }
+  ]
+}
+
